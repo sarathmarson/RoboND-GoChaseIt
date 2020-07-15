@@ -5,6 +5,10 @@ This aim of this project is to create a ball chaser robot in an previously creat
 
 This is developed with gazebo workspace. 
 
+## Sensors used:
+1. Camera
+2. Lidar (Hukoyo)
+
 ## launch commands
 
 For launching the world:
