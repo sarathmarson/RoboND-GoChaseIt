@@ -26,4 +26,7 @@ Launch  the following commands to develop the algorith for chasing:
 ## rvis visualization
 
  'rvizconfig.rviz' file is used to visualize 
-        
+ 
+![alt text](images/1.jpg)
+![alt text](images/2.jpg)
+![alt text](images/3.jpg)
