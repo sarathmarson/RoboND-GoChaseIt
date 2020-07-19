@@ -30,3 +30,4 @@ Launch  the following commands to develop the algorith for chasing:
 ![alt text](images/1.jpg)
 ![alt text](images/2.jpg)
 ![alt text](images/3.jpg)
+![alt text](output/ball_chaser.gif)
